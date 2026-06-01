@@ -1,7 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Piotr\\Desktop\\Wariant 1\\WebAPI\\WebAPI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Sprzetowo\\Documents\\GitHub\\CG\\zadanie-4-wariat-2-Morswin\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\sprzetowo\\documents\\github\\cg\\zadanie-4-wariat-2-morswin\\webapi\\webapi\\controllers\\getdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\getdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\sprzetowo\\documents\\github\\cg\\zadanie-4-wariat-2-morswin\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\sprzetowo\\documents\\github\\cg\\zadanie-4-wariat-2-morswin\\webapi\\webapi\\services\\getdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\services\\getdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\sprzetowo\\documents\\github\\cg\\zadanie-4-wariat-2-morswin\\webapi\\webapi\\interfaces\\formsubmitinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\interfaces\\formsubmitinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\sprzetowo\\documents\\github\\cg\\zadanie-4-wariat-2-morswin\\webapi\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\sprzetowo\\documents\\github\\cg\\zadanie-4-wariat-2-morswin\\webapi\\webapi\\models\\ksiazkadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\ksiazkadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\sprzetowo\\documents\\github\\cg\\zadanie-4-wariat-2-morswin\\webapi\\webapi\\models\\ksiazka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\models\\ksiazka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|c:\\users\\sprzetowo\\documents\\github\\cg\\zadanie-4-wariat-2-morswin\\webapi\\webapi\\interfaces\\getdatainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE8F3A1C-89E2-4204-BDA7-2F242468D42F}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\interfaces\\getdatainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +42,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
@@ -54,6 +91,108 @@
             {
               "$type": "Bookmark",
               "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormSubmitInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Sprzetowo\\Documents\\GitHub\\CG\\zadanie-4-wariat-2-Morswin\\WebAPI\\WebAPI\\Interfaces\\FormSubmitInterface.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Interfaces\\FormSubmitInterface.cs",
+              "ToolTip": "C:\\Users\\Sprzetowo\\Documents\\GitHub\\CG\\zadanie-4-wariat-2-Morswin\\WebAPI\\WebAPI\\Interfaces\\FormSubmitInterface.cs",
+              "RelativeToolTip": "WebAPI\\Interfaces\\FormSubmitInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T21:21:32.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sprzetowo\\Documents\\GitHub\\CG\\zadanie-4-wariat-2-Morswin\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sprzetowo\\Documents\\GitHub\\CG\\zadanie-4-wariat-2-Morswin\\WebAPI\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-01T21:05:57.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetDataController.cs",
+              "DocumentMoniker": "C:\\Users\\Sprzetowo\\Documents\\GitHub\\CG\\zadanie-4-wariat-2-Morswin\\WebAPI\\WebAPI\\Controllers\\GetDataController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\GetDataController.cs",
+              "ToolTip": "C:\\Users\\Sprzetowo\\Documents\\GitHub\\CG\\zadanie-4-wariat-2-Morswin\\WebAPI\\WebAPI\\Controllers\\GetDataController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\GetDataController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T10:59:05.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KsiazkaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sprzetowo\\Documents\\GitHub\\CG\\zadanie-4-wariat-2-Morswin\\WebAPI\\WebAPI\\Models\\KsiazkaDTO.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\KsiazkaDTO.cs",
+              "ToolTip": "C:\\Users\\Sprzetowo\\Documents\\GitHub\\CG\\zadanie-4-wariat-2-Morswin\\WebAPI\\WebAPI\\Models\\KsiazkaDTO.cs",
+              "RelativeToolTip": "WebAPI\\Models\\KsiazkaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T10:46:26.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Sprzetowo\\Documents\\GitHub\\CG\\zadanie-4-wariat-2-Morswin\\WebAPI\\WebAPI\\Services\\GetDataService.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Services\\GetDataService.cs",
+              "ToolTip": "C:\\Users\\Sprzetowo\\Documents\\GitHub\\CG\\zadanie-4-wariat-2-Morswin\\WebAPI\\WebAPI\\Services\\GetDataService.cs",
+              "RelativeToolTip": "WebAPI\\Services\\GetDataService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwD0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T10:25:16.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sprzetowo\\Documents\\GitHub\\CG\\zadanie-4-wariat-2-Morswin\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Sprzetowo\\Documents\\GitHub\\CG\\zadanie-4-wariat-2-Morswin\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvx0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T10:22:55.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetDataInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Sprzetowo\\Documents\\GitHub\\CG\\zadanie-4-wariat-2-Morswin\\WebAPI\\WebAPI\\Interfaces\\GetDataInterface.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Interfaces\\GetDataInterface.cs",
+              "ToolTip": "C:\\Users\\Sprzetowo\\Documents\\GitHub\\CG\\zadanie-4-wariat-2-Morswin\\WebAPI\\WebAPI\\Interfaces\\GetDataInterface.cs",
+              "RelativeToolTip": "WebAPI\\Interfaces\\GetDataInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T10:21:58.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ksiazka.cs",
+              "DocumentMoniker": "C:\\Users\\Sprzetowo\\Documents\\GitHub\\CG\\zadanie-4-wariat-2-Morswin\\WebAPI\\WebAPI\\Models\\Ksiazka.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Models\\Ksiazka.cs",
+              "ToolTip": "C:\\Users\\Sprzetowo\\Documents\\GitHub\\CG\\zadanie-4-wariat-2-Morswin\\WebAPI\\WebAPI\\Models\\Ksiazka.cs",
+              "RelativeToolTip": "WebAPI\\Models\\Ksiazka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T10:19:24.623Z"
             }
           ]
         },
